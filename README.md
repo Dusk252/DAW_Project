@@ -4,7 +4,8 @@ The relevant controllers, models, views, and scripts for a shopping cart CodeIgn
 This website is simply a proof of concept. No business is being made through it and all information exists at title of example.
 
 Playing around with the admin area can be done by logging in with the following credentials:
-```email: admin@admin.com
+```
+email: admin@admin.com
 password: admin
 ```
 User accounts can simply be created. No email confirmation so no valid addresses required.
