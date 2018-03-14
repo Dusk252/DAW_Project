@@ -5,7 +5,8 @@ This website is simply a proof of concept. No business is being made through it 
 
 Playing around with the admin area can be done by logging in with the following credentials:
 ```email: admin@admin.com
-password: admin```
+password: admin
+```
 User accounts can simply be created. No email confirmation so no valid addresses required.
 
 ###Known issues:
