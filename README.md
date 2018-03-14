@@ -1,6 +1,7 @@
 ## Shopping cart website - college project for web application development
 
 The relevant controllers, models, views, and scripts for a shopping cart CodeIgniter project. The sample website can be seen at https://test-pure-imagination.000webhostapp.com/index.php/
+
 This website is simply a proof of concept. No business is being made through it and all information exists at title of example.
 
 Playing around with the admin area can be done by logging in with the following credentials:
